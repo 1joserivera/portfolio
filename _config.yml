@@ -5,6 +5,7 @@ plugins:
 gem "github-pages", group: :jekyll_plugins
 
 title: Jose Rivera
+logo: assets/img/profile picture.jpg
 description: This is a personal portfolio intended to showcase my projects to land a job in Data Science
 
 show_downloads: false
