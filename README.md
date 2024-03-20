@@ -1,4 +1,4 @@
-# Industrial Engineer seeking for Data Science Oportunities 
+
 
 ### Education
 Major in Industrial Engineering, University of Buenos Aires.
